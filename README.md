@@ -1,6 +1,6 @@
 Hi 👋 My name is Ayberk
 =======================
-<img src="https://thumbs.gfycat.com/AccurateSelfassuredBarb-size_restricted.gif" class=img-fluid>
+<img src="https://thumbs.gfycat.com/AccurateSelfassuredBarb-size_restricted.gif" class="img-fluid">
 Frontend Developer
 -----------------
 
