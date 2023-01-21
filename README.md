@@ -35,7 +35,7 @@ I am a graduate of Bursa Uludağ University Management Information Systems Depar
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="49%">
+<table style="overflow-x:hidden !important;"><tr><td valign="top" width="49%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayberkkk&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
