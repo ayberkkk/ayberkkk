@@ -34,7 +34,7 @@ I am a graduate of Bursa Uludağ University Management Information Systems Depar
 <br/>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayberkkk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayberkkk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayberkkk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![ayberkkk's Stats](https://github-readme-stats.vercel.app/api?username=ayberkkk&theme=gotham&show_icons=true&hide_border=false&count_private=false) 
+![ayberkkk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayberkkk&theme=gotham&hide_border=false)
+![ayberkkk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayberkkk&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
