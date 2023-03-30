@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭  I’m currently working on JavaScriptJavaScript<br><br>📓 I’m currently learning CSS Frameworks ,JavaScript and ReactJS<br>
+🔭  I’m currently working on JavaScript <br><br>📓 I’m currently learning CSS Frameworks ,JavaScript and ReactJS<br>
 
 
 ## 🌐 Socials:
