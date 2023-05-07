@@ -1,4 +1,6 @@
-🔭  I’m currently working on JavaScript <br><br>📓 I’m currently learning CSS Frameworks ,JavaScript and ReactJS<br>
+🔭 I’m currently working on React-JS <br> <br>
+🌱 I’m currently learning JavaScript & React-JS <br> <br>
+💬 Ask me about Frontend Development <br>
 
 
 ## 🌐 Socials:
