@@ -1,4 +1,4 @@
-div align="center">I'm Ayberk, a full-time frontend-dev freelance developer 👨‍💻  🚀</div>  
+<div align="center">I'm Ayberk, a full-time frontend-dev freelance developer 👨‍💻  🚀</div>  
   
 
 - 🔭  I’m currently working on ReactJS  
