@@ -1,6 +1,5 @@
-<div align="center">
-  <h1 align="center">Hi 👋, I'm Ayberk</h1>
-  <h3 align="center">jr.frontend developer</h3>
+  <h1 align="center" style="text-color="white;">Hi 👋, I'm Ayberk</h1>
+  <h3 align="center" style="text-color="white;">jr.frontend developer</h3>
   
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh0cjF6eGczZHZ2YXRqd2dmem5leXppZWs5b3NxeDhyNjB2aTBudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width=100%; height=100px">
   
@@ -21,4 +20,3 @@
   
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayberkkk&show_icons=true&locale=en" alt="ayberkkk" /></p>
 
-</div>  
