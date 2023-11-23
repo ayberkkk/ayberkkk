@@ -6,17 +6,10 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">📚 I'm currently learning ReactJS & nextJs.<br>👨‍💻 All of my projects are available at ayberkk-tigli.vercel.app/<br>📫 How to reach me ayberktiglii@gmail.com</p>
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
