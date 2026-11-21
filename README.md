@@ -66,9 +66,9 @@ I enjoy turning complex ideas into simple, intuitive and performant digital expe
 
 ### GitHub Stats
 
-<p>
+<p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayberkk-tigli&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayberkkk&layout=compact&theme=transparent&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
